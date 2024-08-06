@@ -1,5 +1,7 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
+cd .. && rm -rf nxtTrendzCartFeatures && mkdir nxtTrendzCartFeatures && cd nxtTrendzCartFeatures && git clone https://github.com/venkat7903/Nxt-Trendz-Ecommerce-App.git /home/workspace/reactjs/coding-practices/nxtTrendzCartFeatures
+
 Prime User: Username - rahul, Password - rahul@2021
 
 Non-Prime User: Username - raja, Password - raja@2021
